@@ -27,3 +27,7 @@
 /.mvn
 /.settings
 /target
+/.metadata
+.metadata
+/.recommenders
+/RemoteSystemsTempFiles
